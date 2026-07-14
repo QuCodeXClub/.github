@@ -1,4 +1,14 @@
-# <img src="./images/codex.svg" width="45" align="left"> CODEX Club
+<p align="center">
+  <img src="../images/codex.svg" width="120" alt="CODEX Club Logo">
+</p>
+
+<h1 align="center">CODEX Club</h1>
+
+<p align="center">
+  Code. Create. Innovate.
+</p>
+
+---
 
 ## Code. Create. Innovate.
 
